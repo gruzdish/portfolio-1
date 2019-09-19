@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Portfolio
+ Template: oceanwp
+ Theme URI:    http://example.com/oceanwp-child/
+ Description:  Oceanwp Child Theme
+ Author:       Linda Gruzde
+ Author URI:   http://gruzde.dk
+ Template:     Oceanwp
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  Oceanwp-child
+*/
+
+* {
+
+    text-decoration: none;
+    font-weight: bold;
+  letter-spacing: 1px;
+}
